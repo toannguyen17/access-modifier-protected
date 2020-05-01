@@ -1,6 +1,6 @@
 package app;
 
-class Simple {
+public class Simple {
     protected void msg() {
         System.out.println("Hello java");
     }
